@@ -2,13 +2,7 @@
 
 ## Overview
 
-This project is a web application designed to provide users with a modern and secure way to maintain a digital diary. It allows users to create diary entries, set goals, and track progress in a secure and accessible manner. The backend is powered by a MySQL database to ensure data integrity and user privacy.
-
-The project covers:
-- User account creation and authentication.
-- Diary entry creation, management, and mood tracking.
-- Goal-setting features for users to track personal milestones.
-- Secure storage of user data using a MySQL database.
+Our project is a web application designed to provide users with a modern and secure way to maintain a digital diary. A diary, in its simplest form, is a record of each day that captures both the significant and everyday moments, along with the thoughts and emotions associated with them. This digital diary offers an efficient and functional alternative to traditional paper diaries. With a strong focus on privacy and user experience, it employs appropriate functions to safeguard users' data, ensuring their thoughts and memories remain private and secure
 
 ## Key Techniques
 
@@ -56,3 +50,4 @@ The database design includes the following entities:
 - **Security**: Ensure that the user passwords are stored securely (use hashing algorithms such as `bcrypt` or `sha256`).
 - **Customization**: Users can customize the look and feel of their diary through themes, fonts, and pad styles.
 - **Accessibility**: Users can access the diary from any device with an internet connection.
+- **Figma**(https://www.figma.com/proto/yhi6Uf4XJBQO8pi9wb5hf2/Diary?type=design&node-id=61-3&t=svSbADUf1USpsazr-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=61%3A3)
